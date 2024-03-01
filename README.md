@@ -13,6 +13,8 @@ I'm passionate about coding and exploring new technologies. Currently, I'm focus
   <img src="https://img.icons8.com/color/96/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/96/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/96/000000/git.png"/>
 </div>
 
 <div align="center">
@@ -23,6 +25,10 @@ I'm passionate about coding and exploring new technologies. Currently, I'm focus
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.docker.com/">Docker</a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://reactjs.org/">React</a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://git-scm.com/">Git</a>
 </div>
 
 ## Social Media
@@ -35,4 +41,4 @@ I'm passionate about coding and exploring new technologies. Currently, I'm focus
 
 ## Contact Me
 
-Feel free to contact me via phone at +254758652334.
+Feel free to contact me via phone at +254758652334 or email at rombo.programming@gmail.com.
