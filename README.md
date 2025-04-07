@@ -1,44 +1,87 @@
-# Hi, I'm Fromb23! 👋
+# Francis Rombo
 
-I'm a student at ALX and PLP. Welcome to my GitHub profile!
+👋 Hey there! I'm Francis Rombo — a passionate software developer from Kenya.
 
-## About Me
+I'm currently advancing my skills through **ALX** and **PLP**, constantly pushing the limits of what I can build. From back-end systems to front-end design, I love transforming ideas into working products.
 
-I'm passionate about coding and exploring new technologies. Currently, I'm focusing on mastering Python, C, and web development with Django and Flask.
+---
 
-## Skills and Expertise
+## 🚀 About Me
+
+- 🔧 I’m a full-stack developer building robust, scalable, and user-friendly applications.
+- 🧠 I enjoy solving problems using **data structures**, **algorithms**, and clean code.
+- 🎯 I believe in continuous learning and applying forward-thinking software engineering practices.
+- 🐧 I thrive in Linux environments and love the terminal.
+- 🔁 I automate and ship fast with **DevOps** tools and workflows.
+
+---
+
+## 🛠️ Tech & Tools I Use
+
+### 💻 Languages & Backend
+- C
+- Python (Django, Flask)
+- JavaScript / TypeScript (Node.js, Express)
+- PHP
+- SQL, PostgreSQL, MySQL, MongoDB
+
+### 🖥️ Frontend
+- React + Vite
+- Angular
+- HTML5, CSS3, TailwindCSS, Bootstrap
+
+### ⚙️ DevOps & Tools
+- Git & GitHub
+- Docker
+- Linux (Kali, Ubuntu)
+- CI/CD (GitHub Actions, Shell scripting)
+
+### 📚 Computer Science Foundations
+- Problem Solving
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- System Design
+
+---
+
+## 🎨 Design Philosophy
+
+I care about **clean UI**, **responsive design**, and **intuitive UX**. Whether it's building admin dashboards or client-facing web apps, I use tools like TailwindCSS and Bootstrap to bring designs to life.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francisrombo&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisrombo&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Social Media
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/python.png"/>
-  <img src="https://img.icons8.com/color/96/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/96/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/96/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/96/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/96/000000/git.png"/>
+  <a href="https://twitter.com/Rombo_Official">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/its.rombo">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/francis-rombo-5212b1289/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
-<div align="center">
-  <a href="https://www.python.org/">Python</a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.docker.com/">Docker</a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://reactjs.org/">React</a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://git-scm.com/">Git</a>
-</div>
+---
 
-## Social Media
+## 📞 Contact Me
 
-<div align="center">
-  <a href="https://twitter.com/Rombo_Official"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" style="border-radius: 20px;"/></a>
-  <a href="https://www.facebook.com/its.rombo"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" style="border-radius: 20px;"/></a>
-  <a href="https://www.linkedin.com/in/francis-rombo-5212b1289/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" style="border-radius: 20px;"/></a>
-</div>
+Feel free to reach out:
 
-## Contact Me
+- 📧 Email: **rombo.programming@gmail.com**
+- 📱 Phone: **+254758652334**
 
-Feel free to contact me via phone at +254758652334 or email at rombo.programming@gmail.com.
+---
+
+> “Building code with purpose. Learning every line. Shipping with confidence.”  
