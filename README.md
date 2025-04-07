@@ -1,14 +1,14 @@
 # Francis Rombo
-francisrombo
+Fromb23
 
 ## Profile
 - 🔹 ALX Software Engineering Student  
 - 📍 Nairobi, Kenya  
 - 🖥️ Full-Stack Developer  
 - 🐧 Linux Enthusiast  
-- @Rombo_Official (Twitter)  
+- @tech_rombo (Twitter)  
 - in/francis-rombo-5212b1289  
-- https://github.com/francisrombo  
+- https://github.com/Fromb23  
 
 ## Highlights
 - 🚀 ALX Scholar  
@@ -19,10 +19,10 @@ francisrombo
 ---
 
 ### Home
-- How to reach me: rombo.programming@gmail.com  
+- How to reach me: rombo.f2@gmail.com  
 
 Connect with me:  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Rombo_Official) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tech_rombo) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-rombo-5212b1289/)  
 
 Languages and Tools:  
@@ -47,23 +47,25 @@ Languages and Tools:
 ### Home
 - Francis Rombo's GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francisrombo&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisrombo&layout=compact&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fromb23&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fromb23&layout=compact&theme=radical" width="350"/>
 </p>
 
 ---
 
 ### Home
 - Current Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=francisrombo&theme=radical)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fromb23&theme=radical" width="400"/>
+</p>
 
 ---
 
 ### Home
 - Featured Projects  
-- 🏗️ [ALX System Engineering](https://github.com/francisrombo/alx-system_engineering)  
-- 🌐 [Full-Stack Portfolio](https://github.com/francisrombo/portfolio)  
-- 🔐 [Authentication Systems](https://github.com/francisrombo/auth_systems)  
+- 🏗️ [ALX System Engineering](https://github.com/Fromb23/alx-system_engineering)  
+- 🌐 [Full-Stack Portfolio](https://github.com/Fromb23/portfolio)  
+- 🔐 [Authentication Systems](https://github.com/Fromb23/auth_systems)  
 
 ---
 
