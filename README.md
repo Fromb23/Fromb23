@@ -73,7 +73,3 @@ Languages and Tools:
 📬 Let's collaborate! Always open to new opportunities and tech discussions.  
 
 > "Code is poetry when written with purpose."  
-
----
-
-Type here to search 🔍  
