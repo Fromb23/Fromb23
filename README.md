@@ -22,7 +22,7 @@ Fromb23
 - How to reach me: rombo.f2@gmail.com  
 
 Connect with me:  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tech_rombo) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/its_rombo) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-rombo-5212b1289/)  
 
 Languages and Tools:  
